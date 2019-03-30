@@ -7,6 +7,7 @@
 
 # Los scritps ofuscados funsiona bien en cualquier terminal linux
 ![Screenshot_20190330-163241](https://user-images.githubusercontent.com/46208706/55282588-78a06000-530c-11e9-81c7-02c35139db52.png)
-
+# Contactame su presenta errores
+# https://t.me/CesarGray
 # Sigueme en YouTube
-https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
+# https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
